@@ -7,5 +7,8 @@
  - git commit -m "commit message"
 
  - git branch
- - git branch -m branch-name
- - git checkout branch-name
+ - git checkout -b branch-name , while creating new branch and moving to the named branch
+
+ - git checkout branch-name , while you have existing branch
+
+ - git branch , list all the branch
